@@ -1,16 +1,4 @@
-## Hi there 👋
-
-I'm **carryingpotman**, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
-
-- 🌐 Built a series of **decentralized** network infrastructures.
-- 🔒 Written some **zero-knowledge proof** and other cryptographic libraries.
-- 🤖 Building **AI** and cool things.
-- 🍁 Planted many plants and flowers in the **garden**.
-- ⚡ Like and using **Rust** and also using Python, Solidity, Javascript, Dart (Flutter), Elixir, Ruby... :)
-
-I am currently working as an **open source developer**.
-
-### Latency numbers every programmer should know
+# Latency numbers every programmer should know
 
     L1 cache reference ......................... 0.5 ns
     Branch mispredict ............................ 5 ns
